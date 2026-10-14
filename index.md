@@ -4,4 +4,4 @@ landing: true
 ---
 
 <!-- Optional: a line of text under your photo. Delete it to show only the photo. -->
-Musician based in Toronto.
+Sure Yeah / Surya Krishnan | Toronto, CA | booking@sureyeah.ca

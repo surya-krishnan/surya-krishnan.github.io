@@ -4,14 +4,11 @@ title: Upcoming
 permalink: /upcoming/
 ---
 
-<!--
-  One gig = a ### line, then the details underneath.
-  Newest at the bottom or top — your choice, it shows in the order you write it.
-  When a gig is over, cut it from here and paste it into archive.md.
--->
+### Fri 31 Oct 2026 — The Jama, Toronto
+Jamaween [3h Set] · [Tickets](https://www.zeffy.com/en-CA/ticketing/halloween-haunted-house)
 
-### Fri 24 Oct 2026 — Venue Name, Toronto
-Doors 9pm · with Other Artist · [Tickets](https://example.com)
+### Fri 13 Nov 2026 — TBA, Toronto
+(Organizing) Metanoia w/ Nonverbal Communication · [Tickets](https://ra.co/events/2550566)
 
-### Sat 15 Nov 2026 — Another Venue, Montréal
-Festival Name · [Info](https://example.com)
+### Fri 4 Dec 2026 — TBA, Toronto
+Unannounced, extended closing set

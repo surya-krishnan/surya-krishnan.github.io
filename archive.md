@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Archive
+title: Listen / Archive
 permalink: /archive/
 ---
 
@@ -10,15 +10,34 @@ permalink: /archive/
   or just add a link.
 -->
 
-## 2026
+## Highlighted Recordings [full archive](https://soundcloud.com/sureyeahmusic)
+[Nonverbal Communication Pondcast 005](https://soundcloud.com/non-verbal-communication/pondcast-005) - bubbly, upbeat, dreamy; techno/dubstep/bass
+[up in the air](https://soundcloud.com/sureyeahmusic/up-in-the-air) — deep, emotive; deep house/dub techno/techno
 
-### Sat 12 Sep 2026 — Venue Name, Toronto
-[Listen to the set](https://soundcloud.com/yourhandle/set-name)
+## Gigs Archive
 
-### Fri 4 Jul 2026 — Somewhere Else, Berlin
-<iframe src="https://www.youtube.com/embed/VIDEO_ID" title="Set recording" allowfullscreen loading="lazy"></iframe>
+### Fri 2 Oct 2026 — Nonverbal Communication, Toronto
+Peak time hypnotic techno set
+
+### Fri 18 Sept 2026 — FFF Rave, Toronto
+Opening hypnotic techno set
+
+### Fri 4 Sept 2026 — Best Out Of Town Year 6, Field ON
+Festival deep & hypnotic techno set
+
+### Sat 22 Aug 2026 — Muster Point Outdoors, Toronto
+Ambient stage: rnb, ambient, techno, dub
+
+### Sun 16 Aug 2026 — If You Fancy Radio, Toronto
+[Link to recording](https://www.youtube.com/watch?v=-cc1aqsrSBE&list=RD-cc1aqsrSBE&start_radio=1)
+
+### Fri 17 Jul 2026 — Second Nature, Toronto
+Organized + played b2b w/ Noa, closing hypnotic techno/tech house set
+
+### Fri 13 Feb 2026 — NotABBQ, Toronto
+Peak time dub techno, deep house, hypnotic techno set
 
 ## 2025
 
-### Sat 6 Dec 2025 — Venue Name, Toronto
-No recording.
+### Various DIY Events, Toronto
+Live synth techno + DJ gigs
