@@ -1,0 +1,43 @@
+# ─────────────────────────────────────────────
+#  Site settings — edit these
+# ─────────────────────────────────────────────
+title: Your Name                      # shown top-left and in browser tab
+description: Musician / DJ / artist.  # shown in link previews
+url: "https://yourdomain.com"         # your custom domain, no trailing slash
+baseurl: ""                           # leave empty when using a custom domain
+
+# Photo on the landing page (put the file in assets/images/)
+landing_photo: /assets/images/me.jpg
+landing_photo_alt: Portrait of Your Name
+
+# Links shown at the bottom of every page. Delete or add lines freely.
+links:
+  - name: Instagram
+    url: https://instagram.com/yourhandle
+  - name: SoundCloud
+    url: https://soundcloud.com/yourhandle
+  - name: Email
+    url: mailto:you@yourdomain.com
+
+# Menu order (each entry must match a page's file)
+nav:
+  - title: About
+    url: /about/
+  - title: Upcoming
+    url: /upcoming/
+  - title: Archive
+    url: /archive/
+
+# ─────────────────────────────────────────────
+#  Build settings — no need to touch
+# ─────────────────────────────────────────────
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

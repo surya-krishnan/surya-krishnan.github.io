@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <link rel="preload" href="{{ '/assets/fonts/SourceSerif4-Roman.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% seo %}
+</head>
+<body class="{% if page.landing %}landing{% endif %}">
+  <header class="site-header">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <nav>
+      {% for item in site.nav %}
+        <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+  </header>
+
+  <main>
+    {% if page.landing %}
+      <figure class="portrait">
+        <img src="{{ site.landing_photo | relative_url }}" alt="{{ site.landing_photo_alt }}">
+      </figure>
+    {% else %}
+      {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+    {% endif %}
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    {% for link in site.links %}
+      <a href="{{ link.url }}"{% unless link.url contains 'mailto:' %} target="_blank" rel="noopener"{% endunless %}>{{ link.name }}</a>
+    {% endfor %}
+  </footer>
+</body>
+</html>
