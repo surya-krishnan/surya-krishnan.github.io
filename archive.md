@@ -30,13 +30,13 @@ Festival deep & hypnotic techno set
 Ambient stage: rnb, ambient, techno, dub
 
 ### Sun 16 Aug 2026 — If You Fancy Radio, Toronto
-[Link to recording](https://www.youtube.com/watch?v=-cc1aqsrSBE&list=RD-cc1aqsrSBE&start_radio=1)
+[Link to recording](https://www.youtube.com/watch?v=-cc1aqsrSBE&list=RD-cc1aqsrSBE&start_radio=1) Dreamy, driving deep & hypnotic techno set
 
 ### Fri 17 Jul 2026 — Second Nature, Toronto
 Organized + played b2b w/ Noa, closing hypnotic techno/tech house set
 
 ### Fri 13 Feb 2026 — NotABBQ, Toronto
-Peak time dub techno, deep house, hypnotic techno set
+[Link](https://soundcloud.com/sureyeahmusic/sure-yeah-live-notabbq-soul)Peak time dub techno, deep house, hypnotic techno set
 
 ## 2025
 
